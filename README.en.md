@@ -244,4 +244,10 @@ sponsorship rather than restricting use of the core skill. See
 
 [LINUX DO — 中文开发者社区](https://linux.do/)
 
+## Star History
+
+If you find this useful, please give it a ⭐!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zouchenzhen/thesis-defense-pptx-skill&type=Date)](https://star-history.com/#zouchenzhen/thesis-defense-pptx-skill&Date)
+
 This project recognizes and appreciates LINUX DO as a Chinese developer community for open-source sharing and technical discussion. This acknowledgement is not a claim of official endorsement unless separately stated by the community.

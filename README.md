@@ -239,4 +239,10 @@ Apache-2.0 允许使用、修改、分发、私有使用和商业使用，但需
 
 [LINUX DO — 中文开发者社区](https://linux.do/)
 
+## Star History
+
+如果有用的话，给个 ⭐ 吧！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zouchenzhen/thesis-defense-pptx-skill&type=Date)](https://star-history.com/#zouchenzhen/thesis-defense-pptx-skill&Date)
+
 本项目认可并感谢 LINUX DO 社区在中文开发者开源交流、项目分享和技术讨论中的价值。除非社区另有明确说明，此处仅为社区致谢和链接，不代表官方背书。
