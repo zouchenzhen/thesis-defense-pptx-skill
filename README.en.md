@@ -45,6 +45,18 @@ template:
 The example is intentionally cross-platform; real delivery still requires
 Microsoft PowerPoint on Windows for COM-based export and overflow inspection.
 
+## Downloadable Template
+
+This repository now includes one previously used blank Zhengzhou University
+midterm defense template:
+
+- [zhengzhou-university-midterm-blank-template.pptx](examples/templates/zhengzhou-university-midterm-blank-template.pptx)
+
+It is useful as a `--template` input for testing template-preserving deck
+generation. Users are still responsible for confirming their right to use
+school templates, logos, fonts, and other assets; for official submissions,
+prefer the latest template published by the relevant school or department.
+
 A reusable Codex/Agent Skill for creating editable thesis defense PowerPoint decks from local thesis files and an existing `.pptx` visual template.
 
 The workflow is designed for cases where template fidelity matters: university defense decks, lab report decks, branded academic presentations, and local private thesis projects.
@@ -107,7 +119,7 @@ This repository is not a fork of `ppt-master`, does not vendor `ppt-master`, and
 
 `ppt-master` is cited here as related work and as a useful comparison point. If future versions directly reuse code from `ppt-master`, the reused files and license notices should be included explicitly according to its MIT License.
 
-Users are responsible for making sure they have the right to use their thesis text, figures, school templates, logos, and any third-party materials included in the generated deck.
+Users are responsible for making sure they have the right to use their thesis text, figures, school templates, logos, and any third-party materials included in the generated deck. The committed historical blank template is provided only as a sample asset and is not an official university or department release.
 
 ## Repository Layout
 

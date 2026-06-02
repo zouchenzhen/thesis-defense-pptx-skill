@@ -4,6 +4,14 @@
 
 [English README](README.en.md)
 
+## 可下载模板
+
+仓库现在提供一个之前使用过的郑州大学中期答辩空白模板：
+
+- [zhengzhou-university-midterm-blank-template.pptx](examples/templates/zhengzhou-university-midterm-blank-template.pptx)
+
+这个文件适合作为 `--template` 输入测试模板保真流程。学校模板、校徽、字体和其他素材的使用授权仍需使用者自行确认；正式提交前建议优先使用所在学院或学校发布的最新版模板。
+
 ## 功能
 
 - 从本地论文 PDF/LaTeX 项目中提取论文内容和候选图表。
@@ -62,7 +70,7 @@
 
 README 中引用 `ppt-master` 是为了说明相关开源项目和适用场景差异。若未来版本直接复用 `ppt-master` 的代码，应按照其 MIT License 明确保留对应源码文件和版权/许可声明。
 
-使用者需要自行确认其论文文本、实验图、学校模板、校徽、字体和第三方素材具备合法使用权限。本 Skill 不自带学校模板，也不分发第三方模板资产。
+使用者需要自行确认其论文文本、实验图、学校模板、校徽、字体和第三方素材具备合法使用权限。仓库中的历史空白模板仅作为示例资源提供，不代表学校或学院官方发布版本。
 
 ## 仓库结构
 
@@ -181,7 +189,7 @@ python .\skills\thesis-defense-pptx\scripts\make_contact_sheet.py `
 
 ## 说明
 
-本 Skill 不内置固定 PPT 模板。它的目标是尽量复用用户提供的模板，而不是强行套用通用设计风格。
+除 `examples/templates/` 中提供的历史空白模板示例外，本 Skill 不内置固定 PPT 模板。它的目标是尽量复用用户提供的模板，而不是强行套用通用设计风格。
 
 ## 许可证
 
