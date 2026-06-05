@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)
 ![Skill](https://img.shields.io/badge/skill-Codex%20%2F%20Agent-orange.svg)
 ![Output](https://img.shields.io/badge/output-PPTX-D24726.svg)
+[![Available on CodeGuilds](https://img.shields.io/badge/Available_on-CodeGuilds-6366f1)](https://codeguilds.dev/packages/thesis-defense-pptx-skill)
 
 ---
 
